@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "d6d62a31-85b9-3bc0-8e69-375ce4483864",
+    "name": "Sdim_a",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

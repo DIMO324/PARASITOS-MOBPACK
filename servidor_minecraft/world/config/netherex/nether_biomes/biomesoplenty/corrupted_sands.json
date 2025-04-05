@@ -84,10 +84,10 @@
 			"maximumGroupCount": 1
 		}, 
 		{
-			"entity": "primitivemobs:harpy",
-			"spawnWeight": 100,
+			"entity": "primitivemobs:festive_creeper",
+			"spawnWeight": 10,
 			"minimumGroupCount": 1,
-			"maximumGroupCount": 3
+			"maximumGroupCount": 1
 		}, 
 		{
 			"entity": "primitivemobs:skeleton_warrior",
@@ -96,62 +96,44 @@
 			"maximumGroupCount": 3
 		}, 
 		{
-			"entity": "primitivemobs:festive_creeper",
-			"spawnWeight": 10,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
-			"entity": "primitivemobs:treasure_slime",
-			"spawnWeight": 20,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
-			"entity": "primitivemobs:trollager",
-			"spawnWeight": 5,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
-			"entity": "primitivemobs:void_eye",
-			"spawnWeight": 10,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
-			"entity": "primitivemobs:bewitched_tome",
-			"spawnWeight": 100,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
-			"entity": "primitivemobs:goblin",
-			"spawnWeight": 100,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
-			"entity": "primitivemobs:mother_spider",
-			"spawnWeight": 40,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
 			"entity": "multimob:dummy",
 			"spawnWeight": 100,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
 		}, 
 		{
-			"entity": "primitivemobs:goblin",
+			"entity": "primitivemobs:rocket_creeper",
 			"spawnWeight": 50,
-			"minimumGroupCount": 3,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:goblin",
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:blazing_juggernaut",
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:harpy",
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
 			"maximumGroupCount": 3
 		}, 
 		{
 			"entity": "primitivemobs:bewitched_tome",
 			"spawnWeight": 20,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:mother_spider",
+			"spawnWeight": 40,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
 		}, 
@@ -168,20 +150,8 @@
 			"maximumGroupCount": 1
 		}, 
 		{
-			"entity": "primitivemobs:support_creeper",
-			"spawnWeight": 30,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
-			"entity": "primitivemobs:blazing_juggernaut",
+			"entity": "primitivemobs:void_eye",
 			"spawnWeight": 10,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
-			"entity": "primitivemobs:rocket_creeper",
-			"spawnWeight": 50,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
 		}, 
@@ -192,8 +162,44 @@
 			"maximumGroupCount": 1
 		}, 
 		{
-			"entity": "primitivemobs:sheepman",
-			"spawnWeight": 40,
+			"entity": "primitivemobs:trollager",
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:support_creeper",
+			"spawnWeight": 30,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:treasure_slime",
+			"spawnWeight": 20,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:bewitched_tome",
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:goblin",
+			"spawnWeight": 50,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 3
+		}, 
+		{
+			"entity": "primitivemobs:dodo",
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "primitivemobs:filch_lizard",
+			"spawnWeight": 25,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 2
 		}, 
@@ -204,8 +210,14 @@
 			"maximumGroupCount": 1
 		}, 
 		{
-			"entity": "primitivemobs:dodo",
-			"spawnWeight": 100,
+			"entity": "primitivemobs:traveling_merchant",
+			"spawnWeight": 25,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:sheepman",
+			"spawnWeight": 40,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 2
 		}, 
@@ -216,18 +228,6 @@
 			"maximumGroupCount": 1
 		}, 
 		{
-			"entity": "primitivemobs:filch_lizard",
-			"spawnWeight": 25,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 2
-		}, 
-		{
-			"entity": "primitivemobs:traveling_merchant",
-			"spawnWeight": 25,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1
-		}, 
-		{
 			"entity": "multimob:dummy",
 			"spawnWeight": 50,
 			"minimumGroupCount": 1,
@@ -240,14 +240,14 @@
 			"maximumGroupCount": 1
 		}, 
 		{
-			"entity": "primitivemobs:flame_spewer",
-			"spawnWeight": 100,
+			"entity": "multimob:dummy",
+			"spawnWeight": 50,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
 		}, 
 		{
-			"entity": "multimob:dummy",
-			"spawnWeight": 50,
+			"entity": "primitivemobs:flame_spewer",
+			"spawnWeight": 100,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
 		}
